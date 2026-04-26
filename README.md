@@ -40,6 +40,10 @@ Unlike traditional HAR systems, this project introduces a **secondary decision l
 
 ![Confusion Matrix](assets/confusion_matrix.png)
 
+### 🔹 Classification Report Visualization
+
+![Classification Report](assets/Classification.png)
+
 ### 🔹 Decision Distribution
 
 ![Decision Distribution](assets/decision_distribution.png)
@@ -122,7 +126,7 @@ HAR-Activity-Recognition/
 │   ├── decision_system.py
 │   └── evaluation.py
 │
-├── assets/              # contains graphs/images
+├── assets/              # graphs and visualizations
 ├── data/ (ignored)
 │
 ├── main.py
